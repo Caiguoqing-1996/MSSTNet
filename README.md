@@ -6,8 +6,6 @@ a physics-aware multi-scale spatiotemporal network for robust motor imagery (MI)
 The code is released to support the reproducibility of experiments reported in the paper:
 > *Physics-Aware Multi-Scale Spatiotemporal Representation Learning for Robust Motor Imagery EEG Decoding*
 
-*(Author information has been omitted for double-blind review)*
-
 ---
 
 ## 1. Overview
